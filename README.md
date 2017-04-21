@@ -1,6 +1,6 @@
 ## FARS Package
 
-FARS is an Accident Data Analysis package developped in the 3rd course of the
+FARS is an Accident Data Analysis R package developped in the 3rd course of the
 ["Mastering Software Development in R Specialization"](https://www.coursera.org/specializations/r) by Johns Hopkins University on Coursera: ["Building R Packages"](https://www.coursera.org/specializations/r) 
 
 #### Instructions
