@@ -7,6 +7,7 @@ Maintainer: Luc Langevin <luclange20@gmail.com>
 Description: A set of functions to analyse the accidents data from the US National Highway Traffic Safety Administration's
              Fatality Analysis Reporting System.
 License: GLP-3
+LazyData: true
 Encoding: UTF-8
 Imports: readr,
     dplyr,
