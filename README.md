@@ -1,3 +1,5 @@
+[![Travis-CI Build Status](https://travis-ci.org/llangevin/FARS.svg?branch=master)](https://travis-ci.org/llangevin/FARS)
+
 ## FARS Package
 
 FARS is an Accident Data Analysis R package developped in the 3rd course of the
