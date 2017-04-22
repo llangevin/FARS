@@ -1,7 +1,13 @@
-## ---- fig.show='hold'----------------------------------------------------
-plot(1:10)
-plot(10:1)
+## ----eval = FALSE--------------------------------------------------------
+#  devtools::install_github("https://github.com/llangevin/FARS")
+#  library(countytimezones)
 
-## ---- echo=FALSE, results='asis'-----------------------------------------
-knitr::kable(head(mtcars, 10))
+## ----eval = FALSE--------------------------------------------------------
+#  data <- fars_read(filename = "./accident_2013.csv.bz2")
+
+## ----eval = FALSE--------------------------------------------------------
+#  summarize_years<-fars_summarize_years(years=2013:2015)
+
+## ----eval = FALSE--------------------------------------------------------
+#  fars_map_state(40, 2014)
 

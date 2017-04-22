@@ -14,7 +14,7 @@ or from a string "character" generated with the \code{make_filename} function of
 This function returns the dataframe tbl from an input that is a csv.bz2 file.
 }
 \description{
-This is a function that read a csv.bz2 file. You can 
+This is a function that read a csv.bz2 file. You can
 manually write the name of the csv.bz2 file in the filename parameter
 and it is utilized in conjuntion with the \code{make_filename} function for files obtain
 from the US National Highway Traffic Safety Administration's that have this

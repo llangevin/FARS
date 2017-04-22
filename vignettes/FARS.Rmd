@@ -13,7 +13,7 @@ The FARS package allows the analysis of data from the US National Highway Traffi
 
 This R package is available on Github and can be installed and used by typing those commands:  
 ```{r eval = FALSE}
-install_github("llangevin/countytimezones")
+devtools::install_github("https://github.com/llangevin/FARS")
 library(countytimezones)
 ```
 

@@ -12,7 +12,7 @@ fars_summarize_years(years)
 \value{
 This function returns a summary of the number of accidents by month and for each specified year.
    It will return a tibble object that have all these classes: 'tbl_df', 'tbl' and 'data.frame'.
-   One row for each month, the month number in the first column (MONTH) and for each specified year a column with 
+   One row for each month, the month number in the first column (MONTH) and for each specified year a column with
    named from the year (`yyyy`) containing for each month the number of accidents.
    If one or more specified years is not valid, the function return an error and specify the invalid year.
 }
